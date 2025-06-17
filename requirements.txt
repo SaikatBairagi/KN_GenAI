@@ -5,3 +5,9 @@ langchain-openai
 langchain-core
 langchain-community
 pypdf
+requests
+pandas
+psycopg2-binary
+langchain-experimental
+tabulate
+sqlalchemy
